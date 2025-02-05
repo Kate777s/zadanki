@@ -9,8 +9,8 @@ int day = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите номер месяца(1,2 и тд)");
 int month = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите номер месяца(1,2 и тд)");
-Console.WriteLine("Ваше имя" + name);
-Console.WriteLine("Ваша фамилия" + lastname);
+Console.WriteLine("Ваше имя " + name);
+Console.WriteLine("Ваша фамилия " + lastname);
 
 if (day <= 0 || day >= 31)
 {
