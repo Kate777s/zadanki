@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 Console.WriteLine("Введите имя");
 string name = Console.ReadLine();
@@ -8,11 +8,10 @@ Console.WriteLine("Введите день");
 int day = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите номер месяца(1,2 и тд)");
 int month = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите номер месяца(1,2 и тд)");
 Console.WriteLine("Ваше имя " + name);
 Console.WriteLine("Ваша фамилия " + lastname);
 
-if (day <= 0 || day >= 31)
+if (day <= 0 || day >= 32)
 {
     Console.WriteLine("Неверно введен день");
 }
@@ -34,14 +33,14 @@ else
         case 2 when day <= 18:
             Console.WriteLine("Ваш знак зодиака водолей");
             break;
-        case 2 when day >= 19:
-            Console.WriteLine("Ваш знак зодиака рыбы");
-            break;
-        case 2 when day == 29:
-            Console.WriteLine("Ваш знак зодиака рыбы. У вас редкая дата рождения! ~(˘▾˘~)");
-            break;
         case 2 when day >= 30:
             Console.WriteLine("В феврале максимум 29 дней и то раз в 4 года, поэтому неверно введён день этого месяца");
+            break;
+        case 2 when day == 29:
+            Console.WriteLine("Ваш знак зодиака рыбы. У вас редкая дата рождения! :3");
+            break;
+        case 2 when day >= 19:
+            Console.WriteLine("Ваш знак зодиака рыбы");
             break;
         case 3 when day <= 20:
             Console.WriteLine("Ваш знак зодиака рыбы");
@@ -108,4 +107,3 @@ else
             break;
     }
 }
-    
