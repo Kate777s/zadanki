@@ -37,6 +37,12 @@ else
         case 2 when day >= 19:
             Console.WriteLine("Ваш знак зодиака рыбы");
             break;
+        case 2 when day == 29:
+            Console.WriteLine("Ваш знак зодиака рыбы. У вас редкая дата рождения! ~(˘▾˘~)");
+            break;
+        case 2 when day >= 30:
+            Console.WriteLine("В феврале максимум 29 дней и то раз в 4 года, поэтому неверно введён день этого месяца");
+            break;
         case 3 when day <= 20:
             Console.WriteLine("Ваш знак зодиака рыбы");
             break;
