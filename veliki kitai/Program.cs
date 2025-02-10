@@ -22,7 +22,7 @@ if (yearbirth >= 2026)
     return;
 }
 Console.ResetColor();
-if (yearbirth <= 1952 & yearbirth >= 1904) //2025-73. Человек в среднем живет 73 года
+if (yearbirth <= 1952 & yearbirth >= 1904) //2025 - 73 = 1952. Потому что человек в среднем живет 73 года
 {
     Console.ForegroundColor = ConsoleColor.DarkGreen;
     Console.WriteLine("А вы живучий");
