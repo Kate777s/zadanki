@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading.Channels;
 
 Console.WriteLine("Введите a: ");
 double a = Convert.ToInt32(Console.ReadLine());
