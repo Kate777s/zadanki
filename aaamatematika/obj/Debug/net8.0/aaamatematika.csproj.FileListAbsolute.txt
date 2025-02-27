@@ -1,0 +1,14 @@
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\bin\Debug\net8.0\aaamatematika.exe
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\bin\Debug\net8.0\aaamatematika.deps.json
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\bin\Debug\net8.0\aaamatematika.runtimeconfig.json
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\bin\Debug\net8.0\aaamatematika.dll
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\bin\Debug\net8.0\aaamatematika.pdb
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\obj\Debug\net8.0\aaamatematika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\obj\Debug\net8.0\aaamatematika.AssemblyInfoInputs.cache
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\obj\Debug\net8.0\aaamatematika.AssemblyInfo.cs
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\obj\Debug\net8.0\aaamatematika.csproj.CoreCompileInputs.cache
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\obj\Debug\net8.0\aaamatematika.dll
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\obj\Debug\net8.0\refint\aaamatematika.dll
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\obj\Debug\net8.0\aaamatematika.pdb
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\obj\Debug\net8.0\aaamatematika.genruntimeconfig.cache
+C:\Users\gera2\source\repos\aaamatematika\aaamatematika\obj\Debug\net8.0\ref\aaamatematika.dll
