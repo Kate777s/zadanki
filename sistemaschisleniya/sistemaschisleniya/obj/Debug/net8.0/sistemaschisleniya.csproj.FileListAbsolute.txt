@@ -1,0 +1,14 @@
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\bin\Debug\net8.0\sistemaschisleniya.exe
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\bin\Debug\net8.0\sistemaschisleniya.deps.json
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\bin\Debug\net8.0\sistemaschisleniya.runtimeconfig.json
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\bin\Debug\net8.0\sistemaschisleniya.dll
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\bin\Debug\net8.0\sistemaschisleniya.pdb
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\obj\Debug\net8.0\sistemaschisleniya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\obj\Debug\net8.0\sistemaschisleniya.AssemblyInfoInputs.cache
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\obj\Debug\net8.0\sistemaschisleniya.AssemblyInfo.cs
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\obj\Debug\net8.0\sistemaschisleniya.csproj.CoreCompileInputs.cache
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\obj\Debug\net8.0\sistemaschisleniya.dll
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\obj\Debug\net8.0\refint\sistemaschisleniya.dll
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\obj\Debug\net8.0\sistemaschisleniya.pdb
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\obj\Debug\net8.0\sistemaschisleniya.genruntimeconfig.cache
+C:\Users\gera2\source\repos\sistemaschisleniya\sistemaschisleniya\obj\Debug\net8.0\ref\sistemaschisleniya.dll
