@@ -7,10 +7,10 @@ string i = "";
 string e = x.ToString();
 int[] cc = new int[e.Length];
 sos:
-Console.WriteLine($"Введите основание системы счисления для числа {x} (от 2 до 9):");
+Console.WriteLine($"Введите основание системы счисления для числа {x} (от 2 до 10):");
 int y = Convert.ToInt32(Console.ReadLine());
 
-if (y <= 1 || y >= 10)
+if (y <= 1 || y >= 11)
 {
     Console.WriteLine("._.");
     Console.WriteLine("Неверно введена система счисления");
