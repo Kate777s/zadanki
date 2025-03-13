@@ -1,0 +1,14 @@
+C:\Users\gera2\source\repos\aamatematika\aamatematika\bin\Debug\net8.0\aamatematika.exe
+C:\Users\gera2\source\repos\aamatematika\aamatematika\bin\Debug\net8.0\aamatematika.deps.json
+C:\Users\gera2\source\repos\aamatematika\aamatematika\bin\Debug\net8.0\aamatematika.runtimeconfig.json
+C:\Users\gera2\source\repos\aamatematika\aamatematika\bin\Debug\net8.0\aamatematika.dll
+C:\Users\gera2\source\repos\aamatematika\aamatematika\bin\Debug\net8.0\aamatematika.pdb
+C:\Users\gera2\source\repos\aamatematika\aamatematika\obj\Debug\net8.0\aamatematika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gera2\source\repos\aamatematika\aamatematika\obj\Debug\net8.0\aamatematika.AssemblyInfoInputs.cache
+C:\Users\gera2\source\repos\aamatematika\aamatematika\obj\Debug\net8.0\aamatematika.AssemblyInfo.cs
+C:\Users\gera2\source\repos\aamatematika\aamatematika\obj\Debug\net8.0\aamatematika.csproj.CoreCompileInputs.cache
+C:\Users\gera2\source\repos\aamatematika\aamatematika\obj\Debug\net8.0\aamatematika.dll
+C:\Users\gera2\source\repos\aamatematika\aamatematika\obj\Debug\net8.0\refint\aamatematika.dll
+C:\Users\gera2\source\repos\aamatematika\aamatematika\obj\Debug\net8.0\aamatematika.pdb
+C:\Users\gera2\source\repos\aamatematika\aamatematika\obj\Debug\net8.0\aamatematika.genruntimeconfig.cache
+C:\Users\gera2\source\repos\aamatematika\aamatematika\obj\Debug\net8.0\ref\aamatematika.dll
