@@ -1,0 +1,14 @@
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\bin\Debug\net8.0\neeetintegraal_q-q.exe
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\bin\Debug\net8.0\neeetintegraal_q-q.deps.json
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\bin\Debug\net8.0\neeetintegraal_q-q.runtimeconfig.json
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\bin\Debug\net8.0\neeetintegraal_q-q.dll
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\bin\Debug\net8.0\neeetintegraal_q-q.pdb
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\obj\Debug\net8.0\neeetintegraal_q-q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\obj\Debug\net8.0\neeetintegraal_q-q.AssemblyInfoInputs.cache
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\obj\Debug\net8.0\neeetintegraal_q-q.AssemblyInfo.cs
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\obj\Debug\net8.0\neeetintegraal_q-q.csproj.CoreCompileInputs.cache
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\obj\Debug\net8.0\neeetintegraal_q-q.dll
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\obj\Debug\net8.0\refint\neeetintegraal_q-q.dll
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\obj\Debug\net8.0\neeetintegraal_q-q.pdb
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\obj\Debug\net8.0\neeetintegraal_q-q.genruntimeconfig.cache
+C:\Users\gera2\source\repos\neeetintegraal_q-q\neeetintegraal_q-q\obj\Debug\net8.0\ref\neeetintegraal_q-q.dll
