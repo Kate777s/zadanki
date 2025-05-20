@@ -1,0 +1,14 @@
+C:\Users\gera2\source\repos\task_14\task_14\bin\Debug\net8.0\task_14.exe
+C:\Users\gera2\source\repos\task_14\task_14\bin\Debug\net8.0\task_14.deps.json
+C:\Users\gera2\source\repos\task_14\task_14\bin\Debug\net8.0\task_14.runtimeconfig.json
+C:\Users\gera2\source\repos\task_14\task_14\bin\Debug\net8.0\task_14.dll
+C:\Users\gera2\source\repos\task_14\task_14\bin\Debug\net8.0\task_14.pdb
+C:\Users\gera2\source\repos\task_14\task_14\obj\Debug\net8.0\task_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gera2\source\repos\task_14\task_14\obj\Debug\net8.0\task_14.AssemblyInfoInputs.cache
+C:\Users\gera2\source\repos\task_14\task_14\obj\Debug\net8.0\task_14.AssemblyInfo.cs
+C:\Users\gera2\source\repos\task_14\task_14\obj\Debug\net8.0\task_14.csproj.CoreCompileInputs.cache
+C:\Users\gera2\source\repos\task_14\task_14\obj\Debug\net8.0\task_14.dll
+C:\Users\gera2\source\repos\task_14\task_14\obj\Debug\net8.0\refint\task_14.dll
+C:\Users\gera2\source\repos\task_14\task_14\obj\Debug\net8.0\task_14.pdb
+C:\Users\gera2\source\repos\task_14\task_14\obj\Debug\net8.0\task_14.genruntimeconfig.cache
+C:\Users\gera2\source\repos\task_14\task_14\obj\Debug\net8.0\ref\task_14.dll
